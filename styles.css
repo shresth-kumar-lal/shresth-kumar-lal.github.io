@@ -86,3 +86,7 @@ footer {
 #about_me{
    font-size: 20px; 
 }
+a:link { color: lightskyblue; }
+a:visited { color: #6d4b8d; }
+a:hover { color: #ffffff; }
+a:active { color: #ff4040; text-decoration:none; font-weight:normal; }
